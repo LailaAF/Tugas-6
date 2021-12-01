@@ -1,0 +1,74 @@
+.container{
+    margin-top: 30px;
+    padding: auto;
+    width: auto;
+    height: auto;
+    
+}
+
+.kolom1{
+    width: 700px;
+    height: 100px;
+    margin-left: 300px;
+    padding: 90px;
+    
+    
+}
+
+.box{
+    display: flex;
+    justify-content: space-around;
+    width: 150px;
+    height: 150px;
+    
+}
+
+.box1{
+    float: left;
+}
+
+.box2{
+    margin-left: 130px;
+    float: right;
+    justify-content: space-around;
+    
+}
+
+.box3{
+    float: right;  
+}
+
+.kolom2{
+        margin-top: 30px;  
+        padding: 90px;
+        width: auto;
+        height: 150px;
+       
+}
+
+.kotak{
+        
+        margin-bottom: 10px;
+        padding-bottom: 200px;
+        display: flex;
+        justify-content: space-around;
+        width: 150px;
+        height: 150px;
+        float: left;
+         
+}
+
+
+.kotak1{
+    margin-left: 20px;
+}
+
+.kotak2{
+    float: right;
+}
+
+.kotak5{
+    margin-right: 90px;
+    display: flex;
+    float: right;
+}

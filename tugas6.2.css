@@ -1,0 +1,32 @@
+        nav {
+            background-color: aqua;
+            width: 250px;
+            height: 650px;
+        }
+        body {
+            display: flex;
+        }
+        header {
+            background-color: violet;
+            width: 900px;
+            height: 100px;
+        }
+        .contoh {
+            display: flex;
+        }
+        article {
+            background-color: lightblue;
+            width: 600px;
+            height: 450px;
+        }
+        aside {
+            background-color: blue;
+            width: 300px;
+            height: 450px;
+        }
+        footer {
+            background-color: violet;
+            width: 900px;
+            height: 100px;
+        }
+ 

@@ -1,0 +1,45 @@
+    .container {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        width: 600px;
+        height: 450px;
+        background-color: violet;
+        margin: 60px auto;
+      }
+      .container .main {
+        display: flex;
+        flex-direction: row;
+        flex: 5;
+        justify-content: space-between;
+      }
+      .header {
+        background-color: rgb(26, 138, 243);
+        flex: 1;
+        margin: 20px 20px 0 20px;
+      }
+      .footer {
+        background-color: rgb(26, 138, 243);
+        flex: 1;
+        margin: 0 20px 20px 20px;
+      }
+      .aside {
+        background-color: rgb(26, 138, 243);
+        flex: 1;
+        margin: 20px 0 20px 20px;
+      }
+      .article {
+        background-color: rgb(26, 138, 243);
+        flex: 3;
+        margin: 20px;
+        display: flex;
+        align-items: flex-end;
+
+        justify-content: space-evenly;
+      }
+      .gambar img {
+        width: 120px;
+        height: 130px;
+        background-color: lightpink;
+        margin-bottom: 5px;
+      }
